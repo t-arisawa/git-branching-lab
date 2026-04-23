@@ -1,6 +1,6 @@
 ﻿public class Ui
 {
-    public float ScoreMultiplier = 0f;
+    public float ScoreMultiplier = 1.6f;
 
     public void DisplayScore(int score)
     {
